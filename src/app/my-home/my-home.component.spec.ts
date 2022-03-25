@@ -1,5 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
+import {MatTabsModule} from '@angular/material/tabs';
 import { MyHomeComponent } from './my-home.component';
 
 describe('MyHomeComponent', () => {
