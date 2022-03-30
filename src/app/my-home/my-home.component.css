@@ -6,7 +6,7 @@ h1 , h2{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 24px;
     line-height: 24px;
     text-align: center;
     color: #7a45ce;
@@ -18,12 +18,13 @@ h1 , h2{
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 2%;
+    font-size: 16px;
 }
 
 .contato{
     display: flex;
-    flex-wrap: nowrap;
-    margin-right: 10%;
+    flex-wrap: wrap;
+    margin-right: 15%;
     max-width: fit-content;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -46,12 +47,10 @@ h1 , h2{
     color: blueviolet;
     border: 1px solid hsl(0, 0%, 80%);
     max-height: 50%;
+    font-size: 16px;
 }
 
-.matElement:hover{
-    border: 2px solid hsl(0, 0%, 80%);
-    box-shadow: 5px #828282;
-}
+
 
 .organizador{
     display: flex;
@@ -59,7 +58,9 @@ h1 , h2{
 }
 
 .conteudo{
+    margin-top: 1%;
     margin-left: 1%;
+    margin-right: 5%;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
