@@ -6,7 +6,7 @@ h1 , h2{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 24px;
     text-align: center;
     color: #7a45ce;
@@ -18,7 +18,7 @@ h1 , h2{
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 2%;
-    font-size: 18px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -31,7 +31,7 @@ h1 , h2{
 }
 .cl{
     max-width: 60%;
-    font-size: 18px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
